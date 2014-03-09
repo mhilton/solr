@@ -3,4 +3,4 @@ A Go library for talking to SOLR.
 This library can help you send SOLR queries and process documents and facets.
 
 There are a large number of missing features, which will probably be added as 
-and when they are needed,
+and when they are needed.
